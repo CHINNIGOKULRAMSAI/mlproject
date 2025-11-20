@@ -1,6 +1,7 @@
 numpy
 pandas
 matplotlib
-setuptools
-typing
--e .
+seaborn
+scikit-learn
+xgboost
+# -e .
